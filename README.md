@@ -1,1 +1,1 @@
-# Praticando-javascritp
+# Praticando-javascript
